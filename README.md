@@ -1,1 +1,1 @@
-# reservation-system-frontend
+# resourceBookingSystem-FE
